@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hashservices/.github/main/hash_logo_white.png" alt="Hash Services" width="180" />
+<img src="https://raw.githubusercontent.com/hashservices/.github/main/profile/hash_logo_white.png" alt="Hash Services" width="180" />
 
 ## The DataOS for Enterprises
 
