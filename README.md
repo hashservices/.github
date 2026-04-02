@@ -1,4 +1,4 @@
-<img src="https://www.hashservices.ai/_next/image?url=%2Fimages%2Fhash-logo-white.png&w=256&q=75" alt="Hash Services" width="180" />
+<img src="https://raw.githubusercontent.com/hashservices/.github/main/hash_logo_black.png" alt="Hash Services" width="180" />
 
 ### Built for Data. Designed for Intelligence.
 
