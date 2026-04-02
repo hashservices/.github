@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/hashservices/.github/main/hash_logo_white.png" alt="Hash Services" width="180" />
 
-## Hash — The DataOS for Enterprises
+## The DataOS for Enterprises
 
-**Built for Data. Designed for Intelligence.**
+### **Built for Data. Designed for Intelligence.**
 
 ---
 
